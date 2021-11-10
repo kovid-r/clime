@@ -1,0 +1,17 @@
+{
+    "useThis": true,
+    "colors": {
+        "name": "#E63946",
+        "title": "#A8DADC",
+        "company": "#457B9D",
+        "duration": "#A8DADC",
+        "tech": "#8ECAE6",
+        "links":"#E63946",
+        "border":"F1FAEE",
+        "certification_name":"#457B9D",
+        "certifier_name":"#A8DADC",
+        "platformTechnologies":"#E63946",
+        "dataTechnologies":"#A8DADC",
+        "fullstackTechnologies":"#457B9D"
+    }
+}

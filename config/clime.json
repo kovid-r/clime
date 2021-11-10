@@ -1,0 +1,124 @@
+{
+    "contact": {
+        "name": "Kovid Rathee",
+        "email": "kovid.rathee@gmail.com",
+        "github": "kovid-r",
+        "city": "Melbourne"
+    },
+    "jobs": [{
+            "title": "Senior Consultant",
+            "company": "@Servian",
+            "companyLink": "https://www.servian.com/",
+            "duration": " from Oct 2019 till now",
+            "description": "",
+            "country": "au"
+        },
+        {
+            "title": "Lead Data Engineer",
+            "company": "@Shuttl",
+            "companyLink": "https://www.shuttl.com/",
+            "duration": " from Apr 2017 to Aug 2019",
+            "description": "",
+            "country": "in"
+        },
+        {
+            "title": "Senior Data Engineer",
+            "company": "@Onedirect",
+            "companyLink": "https://www.onedirect.in/",
+            "duration": " from May 2015 to Mar 2017",
+            "description": "",
+            "country": "in"
+        },
+        {
+            "title": "Senior Data Analyst",
+            "company": "@Homecredit",
+            "companyLink": "https://www.homecredit.co.in/",
+            "duration": " from Jun 2013 to May 2015",
+            "description": "",
+            "country": "in"
+        },
+        {
+            "title": "Fullstack Developer",
+            "company": "@Daffodil",
+            "companyLink": "https://www.daffodilsw.com/",
+            "duration": " from Jun 2012 to Dec 2012",
+            "description": "",
+            "country": "in"
+        },
+        {
+            "title": "Assistant Professor",
+            "company": "@Mriem",
+            "companyLink": "https://www.mriem.com/",
+            "duration": " from Aug 2010 to Feb 2012",
+            "description": "",
+            "country": "in"
+        }
+    ],
+    "links": [{
+            "label": "LinkedIn",
+            "base_url": "https://linkedin.com/in/",
+            "username": "kovidrathee",
+            "messsage": ""
+        },
+        {
+            "label": "Linktree",
+            "base_url": "https://linktr.ee/",
+            "username": "kovid"
+        },
+        {
+            "label": "GitHub",
+            "base_url": "https://github.com/",
+            "username": "kovid-r"
+        },
+        {
+            "label": "Twitter",
+            "base_url": "https://twitter.com/",
+            "username": "@Kovid_R"
+        },
+        {
+            "label": "Polywork",
+            "base_url": "https://poly.work/",
+            "username": "kovid"
+        },
+        {
+            "label": "PayPal",
+            "base_url": "https://paypal.me/",
+            "username": "KovidR"
+        },
+        {
+            "label": "Ko-fi",
+            "base_url": "https://ko-fi.com/",
+            "username": "kovid"
+        },
+        {
+            "label": "Medium",
+            "base_url": "https://medium.com/",
+            "username": "@KovidRathee"
+        }
+    ],
+    "certifications": [{
+        "certifier": "AWS",
+        "name": "Solutions Architect Associate"
+    }, {
+        "certifier": "Hashicorp",
+        "name": "Certified Terraform Associate"
+    }, {
+        "certifier": "Databricks",
+        "name": "Certified Associate Developer for Spark 2.4"
+    }, {
+        "certifier": "Google",
+        "name": "Cloud Certified Associate Engineer"
+    }, {
+        "certifier": "Microsoft",
+        "name": "Azure Fundamentals AZ-900"
+    }, {
+        "certifier": "Astronomer",
+        "name": "Airflow Fundamentals"
+    }],
+    "technologies": {
+        "platform": ["AWS", "Google Cloud", "Azure", "Heroku", "Platform.sh"],
+        "data": ["MySQL", "PostgreSQL", "Redshift", "Snowflake", "MongoDB", "Cassandra", "dbt", "Airflow"],
+        "fullstack": ["Node.js", "Python", "Apollo", "TypeScript"]
+    },
+    "interests": []
+}
